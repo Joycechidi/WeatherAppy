@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Weather Appy</string>
+    <string name="error_title">Oops,sorry!</string>
+    <string name="error_message">There was an error. Please try again.</string>
+    <string name="error_positvebutton">OK</string>
+    <string name="error_titlee">Oops! Sorry!</string>
+    <string name="error_messages">There was an error. Please try again.</string>
+    <string name="error_positive_btn">OK</string>
+    <string name="network_unavailable_message">Network is unavailable!</string>
+    <string name="error_ok_positive_btn_text">OK</string>
+    <string name="error_ok_positvebtn_txt">OK</string>
+    <string name="error_okbutton">OK</string>
+    <string name="at_5_00_pm_it_will_be">At 5:00 PM it will be</string>
+    <string name="calgary_alberta_ca">Calgary Alberta, CA</string>
+    <string name="_100">100</string>
+    <string name="humidity">Humidity</string>
+    <string name="_0_88">0.88</string>
+    <string name="rainy_with_a_chance_of_hailstone">Rainy with a chance of Hailstone</string>
+    <string name="refresh_symbol">Refresh Symbol</string>
+    <string name="rain_snow">RAIN/SNOW?</string>
+    <string name="cloudy_symbol">Cloudy Symbol</string>
+    <string name="temperature_symbol">Temperature Symbol</string>
+    <string name="_100_percent">100%</string>
+    <string name="_0_88_humidity">0.88</string>
+    <string name="humidity_text">Humidity</string>
+    <string name="no_daily_forecast_data">There is no data to display!</string>
+    <string name="error_sorry">Oops! Sorry!</string>
+    <string name="error_messag">There was an error. Please try again,</string>
+    <string name="error_btn_Ok">OK</string>
+    <string name="app_label">Weather Appy</string>
+    <string name="daily_forecast_activity">DailyForecastActivity</string>
+    <string name="hourly_forecast_activity">HourlyForecastActivity</string>
+</resources>
